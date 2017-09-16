@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '~> 2.4.1'
+ruby '2.4.1'
 
 gem 'rails', '~> 5.1.4'
 gem 'pg', '~> 0.21.0'
@@ -17,7 +17,8 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
 # Use jquery as the JavaScript library
-gem 'jquery-rails'
+gem 'react-rails', '~> 2.2', '>= 2.2.1'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'jquery-atwho-rails'
 
 # Use twitter bootstrap sass
