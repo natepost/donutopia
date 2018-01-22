@@ -60,7 +60,7 @@ gem 'devise'
   #gem 'Rolify'   (this lets you give different functionality to specific users... example: Uber has drivers and riders... Rolify would be the gem to let you offer that.)
 
 ### FILE UPLOADS AND MGT
-gem 'paperclip', '~> 5.1' #need image magick... refer to github install instructions
+# gem 'paperclip', '~> 5.1' #need image magick... refer to github install instructions
   #image magick
 #gem 'carrierwave' (alternative to Paperclip)
   #minimagick is an alternative (or possibly complimentary) gem for carrierwave
